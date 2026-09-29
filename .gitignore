@@ -1,0 +1,10 @@
+# 签名与口令：绝不入库
+*.jks
+*.keystore
+keystore.txt
+
+# 构建产物
+dist/
+build/
+*.class
+*.idsig
